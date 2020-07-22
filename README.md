@@ -1,4 +1,4 @@
-![background](https://github.com/spoudel1/spoudel1/edit/master/evolution.png)
+![background](https://github.com/spoudel1/spoudel1/blob/master/evolution.png)
 
 
 I am an evolutionary/computational biologist studying the evolution of the biosphere and geosphere. 
