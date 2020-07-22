@@ -1,5 +1,5 @@
 <img align="center" src="evolution.png">
-<img align="center" src="Moon_doug.JPG">
+<img align="center" src="~/spoudel1/spoudel1/Moon_doug.JPG">
 
 I am an evolutionary/computational biologist studying the evolution of the biosphere and geosphere. 
 
