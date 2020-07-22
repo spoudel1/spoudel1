@@ -1,4 +1,4 @@
-<img align="center" src="evolution.png">
+<img src="spoudel1/evolution.png">
 
 I am an evolutionary/computational biologist studying the evolution of the biosphere and geosphere. 
 
