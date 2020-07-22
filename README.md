@@ -1,3 +1,5 @@
-I am a microbiologist/computational biologist studying the evolution of proteins especially metal binding proteins that can act as a catalyst or an electron carrier. 
+<img align="center" src="evolution.png">
+
+I am an evolutionary/computational biologist studying the evolution of the biosphere and geosphere. 
 
 My Publications: https://scholar.google.com/citations?user=IEO9ENsAAAAJ&hl=en&oi=ao
