@@ -1,6 +1,6 @@
 <img align="center" src="evolution.png">
 ![background image]
-(https://github.com/spoudel1/spoudel1/Moon_doug.JPG)
+(https://github.com/spoudel1/Moon_doug.JPG)
 
 I am an evolutionary/computational biologist studying the evolution of the biosphere and geosphere. 
 
